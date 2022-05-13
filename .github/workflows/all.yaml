@@ -10,4 +10,4 @@ on:
 
 jobs:
   test_django:
-    uses: ./.github/workflows/test-django.yaml
+    uses: ./.github/workflows/test-django-mysql.yaml
